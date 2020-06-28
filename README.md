@@ -1,6 +1,6 @@
 # Monte-Carlo-Simulation-Parallel-Programming
 
-Jason Lim
+Jason Lim\n
 CS 475
 Parallel Programming
 5/2020
